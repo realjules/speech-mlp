@@ -66,7 +66,3 @@ The training process involves multiple stages:
 2. Fine-tuning with ReduceLROnPlateau scheduler
 3. Adjustment of time shift range
 4. Progressive reduction of dropout and augmentation
-
-## License
-
-MIT
